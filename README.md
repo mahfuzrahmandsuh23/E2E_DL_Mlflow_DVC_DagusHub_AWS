@@ -104,7 +104,7 @@ DVC
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 286123792244.dkr.ecr.eu-north-1.amazonaws.com/chestcancer25
+    - Save the URI: 286123792244.dkr.ecr.eu-north-1.amazonaws.com/chestcancer24
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
